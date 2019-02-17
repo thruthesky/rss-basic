@@ -1,6 +1,8 @@
 {
   "name": "rss-basic",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "6907f8c9"
 }
